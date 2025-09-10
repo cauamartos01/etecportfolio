@@ -15,9 +15,9 @@
 const portfolioConfig = {
     // ===== INFORMAÇÕES PESSOAIS =====
     pessoal: {
-        nome: "Seu Nome Completo",
-        titulo: "Desenvolvedor Frontend", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
-        descricao: "Apaixonado por tecnologia e sempre em busca de novos desafios. Especializado em criar experiências digitais incríveis.",
+        nome: "Cauã Alonso Martos",
+        titulo: "Desenvolvedor Backend", // Ex: "Desenvolvedor Full Stack", "Designer UX/UI"
+        descricao: "Dedicado à evolução profissional, garantindo maior satisfação tanto no mercado de trabalho quanto no ambito pessoal.",
         
         // Sua foto de perfil (coloque na pasta 'assets/images/')
         foto: "assets/images/perfil.jpg",
@@ -31,12 +31,11 @@ const portfolioConfig = {
 
     // ===== CONTATOS E REDES SOCIAIS =====
     contatos: {
-        email: "seuemail@exemplo.com",
-        telefone: "+55 (11) 99999-9999",
+        email: "caua.martos1504@exemplo.com",
+        telefone: "+55 (11) 97123-0887",
         linkedin: "https://linkedin.com/in/seuperfil",
-        github: "https://github.com/seuusuario",
+        github: "https://github.com/cauamartos01",
         instagram: "https://instagram.com/seuusuario", // Opcional
-        twitter: "https://twitter.com/seuusuario", // Opcional
         website: "https://seusite.com", // Opcional
     },
 
